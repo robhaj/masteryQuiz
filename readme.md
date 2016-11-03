@@ -67,10 +67,10 @@
  - Stack
  - Queue
 - Trees
-  - Binary
+  - Binary Tree
   - Heaps
 - Hashes
-  - Hash table
+  - Hash Table
 
 # Explain:
 
@@ -109,7 +109,7 @@
 
 ### Auth concepts (form-based auth and OAuth)
 
-- Difference between Authentication and authorization
+- Difference between authentication and authorization
 - What is OAuth?
 - What is Encryption?
 - Key terms
