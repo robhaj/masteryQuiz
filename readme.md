@@ -1,6 +1,6 @@
 ## Discuss:
 
-### Semantics of Common HTTP
+#### Semantics of Common HTTP
 
 - Verbs
   - GET
@@ -22,7 +22,7 @@
   - 403
   - 500
 
-### Web sockets
+#### Web sockets
 
 - What are web sockets?
 - Advantages of web sockets over polling
@@ -31,7 +31,7 @@
   - how does the client-side code work?
   - what kind of payloads can it deliver?
 
-### API design concepts
+#### API design concepts
 
 - What markup languages can be used in restful web api?
 
@@ -43,13 +43,13 @@
 
 ## Identify:
 
-### Protocols
+#### Protocols
   - HTTP
   - TCP
   - UDP
   - FTP
 
-### Data structures
+#### Data structures
 
 - Primitive types
   - Boolean
@@ -74,7 +74,7 @@
 
 ## Explain:
 
-### Scrum process
+#### Scrum process
 
 - Key terms
   - Burndown Charts
@@ -87,7 +87,7 @@
   - Velocity
   - Retro
 
-### OOP
+#### OOP
 
 - The significance of the major principles of Object Oriented Programming
 
@@ -99,7 +99,7 @@
 
 ## Describe:
 
-### Angular and MVC
+#### Angular and MVC
 
 - The difference between expressions and directives and correctly use both to bind data
 
@@ -107,7 +107,7 @@
 
 - The importance of Angular controllers and correctly implement them in separate files
 
-### Auth concepts (form-based auth and OAuth)
+#### Auth concepts (form-based auth and OAuth)
 
 - Difference between authentication and authorization
 - What is OAuth?
