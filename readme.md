@@ -1,37 +1,112 @@
-## Explain:
+# Discuss:
 
-- The scrum process and define key terms
+### Verbs, Headers, and Status Codes (Semantics of Common HTTP)
 
-- How reference and primitive types are stored in memory and how they are passed around
+- Verbs
+  - GET
+  - POST
+  - PUT/PATCH
+  - DELETE
 
-- The significance of the major principles of Object Oriented Programming
+- Headers
+  - Accept
+  - User-Agent
+  - Content-Type
+  - Content-Length
+  - Host
+  - Origin
 
-- A URI
+- Status Codes
+  - 200
+  - 401
+  - 403
+  - 500
 
+### Web sockets
 
-## Discuss:
+- What are web sockets?
+- Advantages of web sockets over polling
+- Socket.IO
+  - how does the server-side code work?
+  - how does the client-side cod work?
+  - what kind of payloads can it deliver?
 
-- Verbs, Headers, and Status Codes
+### Agile values/principles
 
-- The basic function and purpose of web sockets
+- What is valued more than ‘Processes and tools
 
-- The semantics of common HTTP
+### API design concepts
 
-- Agile values and principles
+- What markup langagues can be used in restful web api?
 
-- Common API design concepts
+- REST
+  - What is it?
+  - Key characteristics?
+  - Difference between AJAX and REST?
+  - Difference between PUT, POST, and PATCH?
 
+# Identify:
 
-## Identify:
-
-- Common protocols and explain their purpose
+### Protocols
+  - HTTP
+  - TCP
+  - UDP
+  - FTP
 
 - The parts of an HTTP request and response and discuss their purpose
 
-- Common data structures
+### Data structures
+- Primitive types
+  - Boolean
+  - Integer
+  - Floating-point
+  - Double
+- Linear
+  - Arrays
+  - Lists
+    - Linked List
+    - Doubly Linked List
+    - Array List
+- Abstract
+ - Set
+ - Stack
+ - Queue
+- Trees
+  - Binary
+  - Heaps
+- Hashes
+  - Hash table
 
+# Explain:
 
-## Describe:
+### Scrum process
+
+- Key terms
+  - Burndown Charts
+  - Backlog
+  - Release
+  - Roles
+  - Impediments
+  - ScrumMaster
+  - Sprint
+  - Velocity
+  - Retro
+
+- How reference and primitive types are stored in memory and how they are passed around
+
+### OOP
+
+- The significance of the major principles of Object Oriented Programming
+
+- Key Terms
+  - Encapsulation
+  - Abstraction
+  - Inheritance
+  - Polymorphism
+
+# Describe:
+
+### Angular and MVC
 
 - The difference between expressions and directives and correctly use both to bind data
 
@@ -39,4 +114,14 @@
 
 - The importance of Angular controllers and correctly implement them in separate files
 
-- Auth concepts including form-based authentication, OAuth and authorization
+### Auth concepts (form-based auth and OAuth)
+
+- Difference between Authentication and authorization
+- What is OAuth?
+- What is Encryption?
+- Key terms
+  - Credentials
+  - Session
+  - Token
+  - Multi-Factor Authentication
+  - Permissions
