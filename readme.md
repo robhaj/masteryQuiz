@@ -1,6 +1,6 @@
 # Discuss:
 
-### Verbs, Headers, and Status Codes (Semantics of Common HTTP)
+### Semantics of Common HTTP
 
 - Verbs
   - GET
@@ -28,16 +28,12 @@
 - Advantages of web sockets over polling
 - Socket.IO
   - how does the server-side code work?
-  - how does the client-side cod work?
+  - how does the client-side code work?
   - what kind of payloads can it deliver?
-
-### Agile values/principles
-
-- What is valued more than ‘Processes and tools
 
 ### API design concepts
 
-- What markup langagues can be used in restful web api?
+- What markup languages can be used in restful web api?
 
 - REST
   - What is it?
@@ -53,9 +49,8 @@
   - UDP
   - FTP
 
-- The parts of an HTTP request and response and discuss their purpose
-
 ### Data structures
+
 - Primitive types
   - Boolean
   - Integer
@@ -91,8 +86,6 @@
   - Sprint
   - Velocity
   - Retro
-
-- How reference and primitive types are stored in memory and how they are passed around
 
 ### OOP
 
