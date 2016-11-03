@@ -1,4 +1,4 @@
-# Discuss:
+## Discuss:
 
 ### Semantics of Common HTTP
 
@@ -41,7 +41,7 @@
   - Difference between AJAX and REST?
   - Difference between PUT, POST, and PATCH?
 
-# Identify:
+## Identify:
 
 ### Protocols
   - HTTP
@@ -72,7 +72,7 @@
 - Hashes
   - Hash Table
 
-# Explain:
+## Explain:
 
 ### Scrum process
 
@@ -97,7 +97,7 @@
   - Inheritance
   - Polymorphism
 
-# Describe:
+## Describe:
 
 ### Angular and MVC
 
